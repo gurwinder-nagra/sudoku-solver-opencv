@@ -9,10 +9,6 @@ A Python script that extracts a Sudoku puzzle from a user-provided image and sol
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
   
-- [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
