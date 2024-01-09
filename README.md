@@ -30,5 +30,3 @@ Make sure you have the following installed:
 - OpenCV
 - NumPy
 
-```bash
-pip install opencv-python numpy
