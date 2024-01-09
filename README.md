@@ -7,8 +7,8 @@ A Python script that extracts a Sudoku puzzle from a user-provided image and sol
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+  
 - [Usage](#usage)
 - [Example](#example)
 - [Contributing](#contributing)
