@@ -40,13 +40,13 @@ pip install opencv-python numpy streamlit
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sudoku-solver.git
+https://github.com/gurwinder-nagra/sudoku-solver-opencv.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd sudoku-solver
+cd sudoku-solver-opencv
 ```
 
 Install dependencies:
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Run the Streamlit app with the following command:
 
 ```bash
-streamlit run sudoku_solver_app.py
+streamlit run app.py
 ```
 
 Visit the provided URL in your web browser to interact with the Sudoku solver.
